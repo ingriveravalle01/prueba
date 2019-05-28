@@ -1,0 +1,2 @@
+https://www.c-sharpcorner.com/article/consume-web-api-in-asp-net-mvc-with-crud-actions/
+https://vbpuntonet.blogspot.com/2018/06/api-rest-creacion-de-un-api-rest-crud.html
